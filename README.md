@@ -1,97 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>My GitHub Profile</title>
-	<style>
-		body {
-			background-color: #f7f7f7;
-			font-family: Arial, sans-serif;
-			line-height: 1.6;
-			padding: 0;
-			margin: 0;
-		}
-		
-		header {
-			background-color: #24292e;
-			color: #fff;
-			padding: 20px;
-			text-align: center;
-		}
-		
-		header h1 {
-			font-size: 36px;
-			margin: 0;
-		}
-		
-		section {
-			background-color: #fff;
-			border: 1px solid #e1e4e8;
-			border-radius: 6px;
-			box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-			margin: 20px;
-			padding: 20px;
-			text-align: center;
-		}
-		
-		section p {
-			font-size: 20px;
-			margin: 0;
-		}
-		
-		section a {
-			color: #0366d6;
-			text-decoration: none;
-		}
-		
-		section a:hover {
-			text-decoration: underline;
-		}
-	</style>
-</head>
-<body>
-	<header>
-		<h1>My GitHub Profile</h1>
-	</header>
-	
-	<section>
-		<img src="https://github.com/myusername.png" alt="My Avatar" width="200" height="200">
-		<h2>My Name</h2>
-		<p>Short Bio or tagline</p>
-		<a href="https://github.com/myusername">GitHub</a> |
-		<a href="https://twitter.com/myusername">Twitter</a> |
-		<a href="https://www.linkedin.com/in/myusername">LinkedIn</a>
-	</section>
-	
-	<section>
-		<h2>Skills</h2>
-		<ul>
-			<li>HTML/CSS</li>
-			<li>JavaScript</li>
-			<li>React</li>
-			<li>Node.js</li>
-			<li>Git</li>
-			<li>Docker</li>
-		</ul>
-	</section>
-	
-	<section>
-		<h2>Projects</h2>
-		<ul>
-			<li><a href="https://github.com/myusername/project1">Project 1</a></li>
-			<li><a href="https://github.com/myusername/project2">Project 2</a></li>
-			<li><a href="https://github.com/myusername/project3">Project 3</a></li>
-		</ul>
-	</section>
-	
-	<section>
-		<h2>Stats</h2>
-		<p>GitHub Stats:</p>
-		<img src="https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&theme=radical" alt="My GitHub Stats">
-	</section>
-</body>
-</html>
+<!-- Profile picture and bio -->
+<img src="https://avatars.githubusercontent.com/u/12345678" alt="Profile picture" width="200" height="200">
+
+## Hi there! 👋
+
+I'm John, a software engineer based in San Francisco. I'm passionate about building high-quality software that makes a difference in people's lives.
+
+<!-- Pinned repositories -->
+## Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=awesome-project)](https://github.com/johndoe/awesome-project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=cool-project)](https://github.com/johndoe/cool-project)
+
+<!-- Contribution graph -->
+## Contribution Graph
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=johndoe&theme=react-dark&hide_border=true)](https://github.com/johndoe)
+
+<!-- Skills -->
+## Skills
+
+- Python
+- JavaScript
+- HTML/CSS
+- SQL
+
+<!-- Education -->
+## Education
+
+- Bachelor of Science in Computer Science, XYZ University (2020-2024)
+- High School Diploma, ABC School (2016-2020)
+
+<!-- Work Experience -->
+## Work Experience
+
+### Software Engineer, ACME Corp (2022-present)
+
+- Developed a new feature for the company's flagship product, resulting in a 20% increase in revenue
+- Collaborated with cross-functional teams to ensure high-quality software delivery
+
+### Intern, XYZ Inc (2021-2022)
+
+- Worked on a team to develop a new mobile app for the company
+- Learned valuable skills in software development and agile methodologies
+
+<!-- Contact Info -->
+## Contact Info
+
+- Email: john.doe@gmail.com
+- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe/)
+- Personal Website: [johndoe.com](https://www.johndoe.com)
 
 <!--
 **ThePhimmyAI/ThePhimmyAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
