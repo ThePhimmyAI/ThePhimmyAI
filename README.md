@@ -1,6 +1,4 @@
 <!-- Profile picture and bio -->
-<img src="https://avatars.githubusercontent.com/u/12345678" alt="Profile picture" width="200" height="200">
-
 ## Hi, I'm ThePhimmyAI! 👋
 
 I'm a software developer with a passion for AI and machine learning. Currently, I'm based in California and I love working on open-source projects.
